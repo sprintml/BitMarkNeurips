@@ -1,6 +1,6 @@
 # BitMark: Watermarking Bitwise Autoregressive Image Generative Models
 
-**TL;DR:** We introduce a radioactive watermark for bitwise image generative models and show that it remains robust against various attacks while preserving high image quality and generation speed. 
+**TL;DR:** We introduce BitMark, a radioactive watermark for bitwise image generative models and show that it remains robust against various attacks while preserving high image quality and generation speed. 
 
 **Abstract**: State-of-the-art text-to-image models like Infinity generate photorealistic images
 at an unprecedented speed. These models operate in a bitwise autoregressive
